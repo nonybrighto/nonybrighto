@@ -13,6 +13,8 @@
 <a href="https://stackoverflow.com/users/3572546" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3572546" height="30" width="40" /></a>
 <a href="https://fb.com/nonybrighto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nonybrighto" height="30" width="40" /></a>
 <a href="https://medium.com/@nonybrighto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nonybrighto" height="30" width="40" /></a>
+<a href="http://t.me/nonybrighto" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-56-512.png" alt="@nonybrighto" height="35" width="35" /></a>
+<a href="http://wa.me/2348148772181?text=Hi%20Nony%20Bright" target="blank"><img align="center" src="https://img.icons8.com/color/452/whatsapp--v1.png" alt="@nonybrighto" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
