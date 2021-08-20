@@ -23,5 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonybrighto&show_icons=true&locale=en" alt="nonybrighto" /></p>
 
 <p>
-<a href="https://stackoverflow.com/users/3572546/nonybrighto"><img src="https://stackoverflow.com/users/flair/3572546.png" width="208" height="58" alt="profile for nonybrighto at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for nonybrighto at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+&nbsp;<a href="https://stackoverflow.com/users/3572546/nonybrighto"><img src="https://stackoverflow.com/users/flair/3572546.png" width="208" height="58" alt="profile for nonybrighto at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for nonybrighto at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
