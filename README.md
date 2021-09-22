@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nony Bright</h1>
 <h3 align="center">A passionate full-stack developer. An experienced flutter, Vue.js and express developer.</h3>
 
-- 👨‍💻 All of my projects are available at [http://www.nonybrighto.com](http://www.nonybrighto.com)
+<!-- - 👨‍💻 All of my projects are available at [http://www.nonybrighto.com](http://www.nonybrighto.com) -->
 
 - 💬 Ask me about **Flutter, Vue.js/nuxt, node.js/express**
 
